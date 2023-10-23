@@ -1,5 +1,5 @@
 {
-    "name": "harmony/prompts",
+    "name": "harmony-framework/prompts",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -18,7 +18,7 @@
     "require": {
         "php": "^8.1",
         "ext-mbstring": "*",
-        "G4T/collections": "^10.0|^11.0",
+        "g4t/collections": "^10.0|^11.0",
         "symfony/console": "^6.2"
     },
     "require-dev": {
@@ -28,7 +28,7 @@
         "phpstan/phpstan-mockery": "^1.1"
     },
     "conflict": {
-        "G4T/console": ">=10.17.0 <10.25.0",
+        "g4t/console": ">=10.17.0 <10.25.0",
         "Harmony/framework": ">=10.17.0 <10.25.0"
     },
     "suggest": {
