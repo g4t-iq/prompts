@@ -29,7 +29,7 @@
     },
     "conflict": {
         "g4t/console": ">=10.17.0 <10.25.0",
-        "Harmony/framework": ">=10.17.0 <10.25.0"
+        "harmony/framework": ">=10.17.0 <10.25.0"
     },
     "suggest": {
         "ext-pcntl": "Required for the spinner to be animated."
